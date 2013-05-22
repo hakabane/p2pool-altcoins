@@ -130,6 +130,12 @@ Run P2Pool with the "--net junkcoin" option.
 Run your miner program, connecting to 127.0.0.1 on port 19327. 
 Forward port 19339 to the host running P2Pool.
 
+Running P2Pool for Digitalcoin:
+-------------------------
+Run P2Pool with the "--net digital" option.
+Run your miner program, connecting to 127.0.0.1 on port 24397.
+Forward port 24399 to the host running P2Pool.
+
 Note: Fork is based on newest p2pool base
 I will try to update with new altcoins if needed
 
